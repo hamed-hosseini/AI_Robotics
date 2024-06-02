@@ -1,4 +1,4 @@
-# AI_Robotics Course
+# AI_Robotics Course University of Tehran, Spring 2024
 
 ![AI and Robotics](path/to/your/image.jpg)
 
