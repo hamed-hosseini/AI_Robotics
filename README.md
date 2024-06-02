@@ -1,4 +1,4 @@
-# AI_Robotics Course - README
+# AI_Robotics Course
 
 ![AI and Robotics](path/to/your/image.jpg)
 
