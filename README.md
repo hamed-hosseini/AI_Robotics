@@ -1,6 +1,6 @@
 # AI_Robotics Course - README
 
-![AI and Robotics](path/to/your/image.jpg)
+![AI and Robotics](AI_Robotics_Logo.png)
 
 ## Course Overview
 
