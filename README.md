@@ -1,7 +1,7 @@
 # AI_Robotics Course University of Tehran, Spring 2024
-
-![AI and Robotics](AI_Robotics_Logo.png)
-
+<div style="text-align: center;">
+    <img src="AI_Robotics_Logo.png" alt="AI and Robotics" width="400" />
+</div>
 ## Course Overview
 
 **Instructor:** Hamed Hosseini, PhD candidate, University of Tehran
